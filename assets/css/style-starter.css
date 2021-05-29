@@ -11150,6 +11150,13 @@ form.signin-form {
 
 @media (max-width: 480px) {
   form.signin-form {
-    padding: 25px; } }
+    padding: 25px; 
+  }
+	.text{
+	height: 100px;
+	width: 300px:
+  padding: 25px;
+	}
+}
 
 /*# sourceMappingURL=style-starter.css.map */
